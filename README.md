@@ -8,3 +8,9 @@ In the field of machine learning and computer vision, Optical Character Recognit
 HERE IS A DEMO:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/60866104/94984608-5a539a00-056b-11eb-98d5-64b0665607e1.gif)
+
+https://colab.research.google.com/drive/1_X53oCD4CDkHardmxT89ZeOeFj4Vp0nQ?usp=sharing
+
+THIS IS THE COLAB FILE WERE I TRIED TO USE THE NUERAL NETWORKS.
+
+https://colab.research.google.com/drive/1Rr3tGFq07tj4ysoOVhCKS0S_9YlnuQrV?usp=sharing
